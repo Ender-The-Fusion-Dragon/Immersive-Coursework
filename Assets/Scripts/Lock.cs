@@ -16,7 +16,7 @@ public class Lock : MonoBehaviour
     }
 
     private void OnTriggerEnter(Collider other){
-        if(other.tag == "key" && locked){
+        if(other.tag == "Key" && locked){
             if(other.gameObject.name == key.gameObject.name){
                 UnlockDoor();
             }

@@ -29,11 +29,11 @@ public class PlayerInteractions : MonoBehaviour
     Quaternion lookRot;
 
     //A simple visualization of the point we're following in the scene view
-    private void OnDrawGizmos()
+    /**private void OnDrawGizmos()
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawSphere(pickupParent.position, 0.5f);
-    }
+    }**/
 
     //Interactable Object detections and distance check
     void Update()

@@ -5,6 +5,17 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Fuse1
+  - Fuse2
+  - Fuse3
+  - Fuse4
+  - Fuse5
+  - Connector1
+  - Connector2
+  - Connector3
+  - Connector4
+  - Connector5
+  - Key
   layers:
   - Default
   - TransparentFX
@@ -12,9 +23,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Player
+  - Ground
+  - Grab
   - 
   - 
   - 
