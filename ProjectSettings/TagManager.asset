@@ -16,6 +16,7 @@ TagManager:
   - Connector4
   - Connector5
   - Key
+  - LightActivator
   layers:
   - Default
   - TransparentFX

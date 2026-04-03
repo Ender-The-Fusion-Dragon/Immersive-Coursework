@@ -132,7 +132,7 @@ public partial class @PlayerControlsFPS: IInputActionCollection2, IDisposable
                     ""name"": ""Grab"",
                     ""type"": ""Button"",
                     ""id"": ""9afdee24-86f1-4f88-9e59-e2c0096cec07"",
-                    ""expectedControlType"": ""Button"",
+                    ""expectedControlType"": """",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
