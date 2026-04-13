@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 522f24ae98f889f4482ff3cf376e6ba8
+timeCreated: 1510262041
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Tunnel_StyleASection001-1-Fallout_Shelte.mat
+  uploadId: 213005

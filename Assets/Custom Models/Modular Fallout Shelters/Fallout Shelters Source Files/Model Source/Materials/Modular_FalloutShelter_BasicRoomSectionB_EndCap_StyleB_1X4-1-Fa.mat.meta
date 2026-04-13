@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f6c16f656f8b2e4195b84ebe50fcbe0
+timeCreated: 1510262026
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_BasicRoomSectionB_EndCap_StyleB_1X4-1-Fa.mat
+  uploadId: 213005

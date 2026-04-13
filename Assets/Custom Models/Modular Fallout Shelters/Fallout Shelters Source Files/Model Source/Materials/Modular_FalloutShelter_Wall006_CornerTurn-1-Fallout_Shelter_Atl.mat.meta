@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 37c73558c462fcc4aa63545cc7419c0c
+timeCreated: 1510261976
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Wall006_CornerTurn-1-Fallout_Shelter_Atl.mat
+  uploadId: 213005

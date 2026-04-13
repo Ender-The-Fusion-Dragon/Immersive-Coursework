@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 568eecea902211b4487c2e9828f6c5ac
+timeCreated: 1464044556
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Modular
+    Tunnel Sections/Modular_FalloutShelter_Tunnel_StyleA_90DegreeTurn.prefab
+  uploadId: 213005

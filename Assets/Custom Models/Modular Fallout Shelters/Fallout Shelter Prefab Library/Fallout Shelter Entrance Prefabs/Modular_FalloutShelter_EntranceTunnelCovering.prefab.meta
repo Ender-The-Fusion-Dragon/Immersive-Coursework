@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: feb8f53ea5170ca468ae8fb73b32b43e
+timeCreated: 1464843485
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Fallout
+    Shelter Entrance Prefabs/Modular_FalloutShelter_EntranceTunnelCovering.prefab
+  uploadId: 213005

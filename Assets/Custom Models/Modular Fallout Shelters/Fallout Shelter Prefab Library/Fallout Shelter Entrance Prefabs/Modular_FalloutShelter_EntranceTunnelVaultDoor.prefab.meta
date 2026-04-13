@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e67bbece672f9f41b6c4fe77e0c1d5c
+timeCreated: 1464843627
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Fallout
+    Shelter Entrance Prefabs/Modular_FalloutShelter_EntranceTunnelVaultDoor.prefab
+  uploadId: 213005

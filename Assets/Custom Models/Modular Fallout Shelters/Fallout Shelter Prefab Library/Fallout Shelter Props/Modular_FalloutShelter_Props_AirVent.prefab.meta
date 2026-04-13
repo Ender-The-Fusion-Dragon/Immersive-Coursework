@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0379d4bc56231c646ac5f0288ed0752c
+timeCreated: 1464843892
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Fallout
+    Shelter Props/Modular_FalloutShelter_Props_AirVent.prefab
+  uploadId: 213005

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a078f2dedd897134682d67071951acca
+timeCreated: 1510262019
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Props_DockSectionRamp-1-Fallout_Shelter_.mat
+  uploadId: 213005

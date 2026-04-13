@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc61e3fbf3563034d832cc6c2ad9083c
+timeCreated: 1463983384
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Complete
+    Rooms/Modular_FalloutShelter_BasicRoomCompleteA_StyleB_3X3.prefab
+  uploadId: 213005

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fdd033f5b01664f489a6bf63c167adeb
+timeCreated: 1510261970
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Props_FanBlade-1-Fallout_Shelter_Atlas01.mat
+  uploadId: 213005

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0734f9bfce0b5a644a1668a8a1c8bbb2
+timeCreated: 1510262008
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_WallA001-1-Fallout_Shelter_Atlas01.mat
+  uploadId: 213005

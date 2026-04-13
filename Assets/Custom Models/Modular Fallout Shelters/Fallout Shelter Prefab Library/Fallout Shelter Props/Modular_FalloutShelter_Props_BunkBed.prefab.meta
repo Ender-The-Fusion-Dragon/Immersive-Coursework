@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 93fda478fc83d1843b0e7f113fc7bf40
+timeCreated: 1463988547
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Fallout
+    Shelter Props/Modular_FalloutShelter_Props_BunkBed.prefab
+  uploadId: 213005

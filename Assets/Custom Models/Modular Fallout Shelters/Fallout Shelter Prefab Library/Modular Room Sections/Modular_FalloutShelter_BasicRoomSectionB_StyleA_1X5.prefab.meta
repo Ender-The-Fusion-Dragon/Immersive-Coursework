@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54f8cfd98e0316c41afb74a30d424c8a
+timeCreated: 1463987325
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Modular
+    Room Sections/Modular_FalloutShelter_BasicRoomSectionB_StyleA_1X5.prefab
+  uploadId: 213005

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b25068076531394eb4bfa8a7df71045
+timeCreated: 1510262001
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Tunnel_StyleA_DeclineRamp-1-Fallout_Shel.mat
+  uploadId: 213005

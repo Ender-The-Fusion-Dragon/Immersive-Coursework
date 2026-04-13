@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a6f57c0191773ce48b22e5ea8ec39f91
+timeCreated: 1510262009
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Props_PipeLarge003-1-Fallout_Shelter_Atl.mat
+  uploadId: 213005

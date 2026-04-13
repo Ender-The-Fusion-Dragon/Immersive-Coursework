@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd5d12e7eaa34ef408baba7c474efbf7
+timeCreated: 1510261976
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Props_Pillar001-1-Fallout_Shelter_Atlas0.mat
+  uploadId: 213005

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f1157f77e1b288b43949c52020328963
+timeCreated: 1463986128
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Modular
+    Room Sections/Modular_FalloutShelter_BasicRoomSectionA_EndCap_StyleB_1X4.prefab
+  uploadId: 213005

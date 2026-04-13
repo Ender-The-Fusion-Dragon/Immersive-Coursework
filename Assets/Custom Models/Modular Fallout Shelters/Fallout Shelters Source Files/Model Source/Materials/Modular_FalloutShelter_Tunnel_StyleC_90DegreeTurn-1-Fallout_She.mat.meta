@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1eb62de85bacb1d4bb74d1dc6615ab6f
+timeCreated: 1510261988
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Tunnel_StyleC_90DegreeTurn-1-Fallout_She.mat
+  uploadId: 213005

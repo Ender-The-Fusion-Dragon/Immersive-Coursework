@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 436b442dde8682349911aa9ee7d55565
+timeCreated: 1510261978
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_EntranceTunnel04-1-Fallout_Shelter_Atlas.mat
+  uploadId: 213005

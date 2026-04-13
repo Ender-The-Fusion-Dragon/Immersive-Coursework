@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab5aa1b1fee3d2644a0fe97d45e98f4a
+timeCreated: 1465189654
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Fallout
+    Shelter Props/Modular_FalloutShelter_Props_Light01_POINTLIGHT.prefab
+  uploadId: 213005

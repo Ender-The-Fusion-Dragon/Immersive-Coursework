@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2c3d6cf2158bf7438d5db3cb551f7a0
+timeCreated: 1463988749
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelter Prefab Library/Fallout
+    Shelter Props/Modular_FalloutShelter_Props_FootLocker.prefab
+  uploadId: 213005

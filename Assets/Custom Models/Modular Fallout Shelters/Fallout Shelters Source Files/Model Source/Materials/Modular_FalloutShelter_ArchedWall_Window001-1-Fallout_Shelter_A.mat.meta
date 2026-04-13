@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c97acd7f4b62dd54abe54c69ce00ac21
+timeCreated: 1510262028
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_ArchedWall_Window001-1-Fallout_Shelter_A.mat
+  uploadId: 213005

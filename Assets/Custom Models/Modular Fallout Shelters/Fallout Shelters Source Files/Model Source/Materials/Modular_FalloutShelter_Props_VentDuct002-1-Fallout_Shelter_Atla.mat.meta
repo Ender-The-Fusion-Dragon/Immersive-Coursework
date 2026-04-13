@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f47a43ba55d2ad54780cd87b7c239a39
+timeCreated: 1510262052
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Props_VentDuct002-1-Fallout_Shelter_Atla.mat
+  uploadId: 213005

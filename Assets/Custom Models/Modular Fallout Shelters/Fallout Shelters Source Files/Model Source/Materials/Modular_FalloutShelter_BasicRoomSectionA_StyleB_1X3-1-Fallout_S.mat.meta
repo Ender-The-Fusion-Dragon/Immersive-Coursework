@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b3fd4ec663a4be1468ff1fd443d6aa6e
+timeCreated: 1510261972
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_BasicRoomSectionA_StyleB_1X3-1-Fallout_S.mat
+  uploadId: 213005

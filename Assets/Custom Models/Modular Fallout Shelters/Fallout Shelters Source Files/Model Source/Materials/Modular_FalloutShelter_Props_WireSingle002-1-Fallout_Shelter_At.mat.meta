@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5c54e9134751d2e439a107df0c559a43
+timeCreated: 1510262006
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63863
+  packageName: Modular Fallout Shelters
+  packageVersion: 1.1
+  assetPath: Assets/Modular Fallout Shelters/Fallout Shelters Source Files/Model
+    Source/Materials/Modular_FalloutShelter_Props_WireSingle002-1-Fallout_Shelter_At.mat
+  uploadId: 213005
