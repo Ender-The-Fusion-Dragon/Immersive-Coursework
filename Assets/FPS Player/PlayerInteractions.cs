@@ -33,7 +33,7 @@ public class PlayerInteractions : MonoBehaviour
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawSphere(pickupParent.position, 0.5f);
-    }**/
+    }*/
 
     //Interactable Object detections and distance check
     void Update()

@@ -9,16 +9,10 @@ public class Gate : MonoBehaviour{
     void Start(){
         ActiveStrip.SetActive(false);
         GameEvents.current.eventConsoleComplete += OpenGate;
-        GameEvents.current.eventConsoleIncomplete += CloseGate;
     }
 
     private void OpenGate(){
         ActiveStrip.SetActive(true);
         animator.SetBool("Open", true);
-    }
-
-    private void CloseGate(){
-        ActiveStrip.SetActive(false);
-        animator.SetBool("Open", false);
     }
 }

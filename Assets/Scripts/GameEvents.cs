@@ -22,7 +22,6 @@ public class GameEvents : MonoBehaviour{
     }
 
     public event Action eventConsoleComplete;
-    public event Action eventConsoleIncomplete;
 
     public void fuseOneComplete(){
         fuse1 = true;

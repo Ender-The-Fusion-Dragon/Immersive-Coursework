@@ -8,12 +8,14 @@ public class HMD_Manager : MonoBehaviour{
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start(){
-        Debug.Log("Using device " + XRSettings.loadedDeviceName);
+        Debug.Log("hmd: " + XRSettings.loadedDeviceName);
 
-        if(XRSettings.isDeviceActive || XRSettings.loadedDeviceName == "Open XR Display"){
+        if (XRSettings.isDeviceActive || XRSettings.loadedDeviceName == "OpenXR Display"){
+            Debug.Log("Using device XR Player with HMD: " + XRSettings.loadedDeviceName);
             fpsPlayer.SetActive(false);
             xrPlayer.SetActive(true);
         }else{
+            Debug.Log("No HMD detected, using FPS player");
             xrPlayer.SetActive(false);
             fpsPlayer.SetActive(true);
         }
