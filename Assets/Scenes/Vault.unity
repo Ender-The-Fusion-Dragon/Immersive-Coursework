@@ -12367,6 +12367,10 @@ PrefabInstance:
       propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
       value: 1801810542
       objectReference: {fileID: 0}
+    - target: {fileID: 2303921294220554527, guid: 2cf8072ebed1149479d25d30c324125c, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1067542842}
     - target: {fileID: 2303921294396319333, guid: 2cf8072ebed1149479d25d30c324125c, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.6315784
@@ -14206,7 +14210,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 714569267}
   m_LocalRotation: {x: -0, y: 0.0000015594333, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0.11699869}
+  m_LocalPosition: {x: 0, y: 0, z: -0.1}
   m_LocalScale: {x: 0.0009999999, y: 0.001, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -14226,7 +14230,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0.01301384, y: -0.020000577}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 500, y: 665}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &714569269
@@ -28280,7 +28284,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3435865013543954137, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_SmoothTurnEnabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3435865013543954137, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_NearFarEnableTeleportDuringNearInteraction
@@ -28588,7 +28592,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9059786329452581396, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_RequestedTrackingOriginMode
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9159271284333188478, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_IsActive
