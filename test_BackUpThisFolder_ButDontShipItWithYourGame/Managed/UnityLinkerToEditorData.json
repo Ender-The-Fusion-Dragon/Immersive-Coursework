@@ -212,6 +212,12 @@
             "icon": null
           },
           {
+            "name": "CustomRenderTexture",
+            "scenes": [],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
             "name": "DelayedCallManager",
             "scenes": [],
             "dependencyType": 1,
@@ -1015,13 +1021,17 @@
         "dependencies": [
           {
             "name": "ParticleSystem",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Vault.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "ParticleSystemRenderer",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Vault.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           }
