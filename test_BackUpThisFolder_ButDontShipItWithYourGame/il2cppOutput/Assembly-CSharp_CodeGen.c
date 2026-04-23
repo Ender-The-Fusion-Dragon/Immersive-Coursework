@@ -73,9 +73,6 @@ extern void PlayerInteractions_FixedUpdate_m163F0B548BBE192AAFD6AF7D1AE209BBE9D0
 extern void PlayerInteractions_BreakConnection_m9CCD0F01F8A3EA0D0B1CF5DD37FBD0AB4B1B1BAD (void);
 extern void PlayerInteractions_PickUpObject_m21E98F5D0FD92117E609BF26149AF2B87291F510 (void);
 extern void PlayerInteractions__ctor_mBC5AD9CEA928DF293047C74BE87180B9D635F36C (void);
-extern void ActivateStrip_Start_mE51C7C68517199979E80376805ED6626DBF79BAC (void);
-extern void ActivateStrip_Activate_m54E44254829A2D80FBF5387AFC207809D6DBC498 (void);
-extern void ActivateStrip__ctor_m959AF7A6D7D081E86CFD97DCCF8E9C91F86DFC7A (void);
 extern void CradleTrigger_OnTriggerEnter_mD226D07F3E6C335E7FD06AC238C4E88CBADCB6B8 (void);
 extern void CradleTrigger__ctor_m004B60B32EA3C103B6F44D45577D2E3F30D557D6 (void);
 extern void DoorUnlock_Start_m55C78087FF4FE86B562B86C39129708AECB6BF22 (void);
@@ -374,7 +371,7 @@ extern void SlidingDoor_ToggleDoor_mEAAB8109BB52362EC678E90657A517B69B53431F (vo
 extern void SlidingDoor_OpenDoor_m5849BA28262521B5854AEEF0DCED0B1EC4A6BBD2 (void);
 extern void SlidingDoor_CloseDoor_mDA6AAD20680082B2E4CB817C19D9B993E2A61077 (void);
 extern void SlidingDoor__ctor_m25A036046F62DEAF4F0D8D6B2A2EC9FDF3FFFAD6 (void);
-static Il2CppMethodPointer s_methodPointers[373] = 
+static Il2CppMethodPointer s_methodPointers[370] = 
 {
 	PlayerControlsFPS_get_asset_m6470160A91D073A3C68E73A9AEE3320BD1D6D7BC,
 	PlayerControlsFPS__ctor_m0044B00F2F0984822E0D4C5DDCBB43B0850311E8,
@@ -447,9 +444,6 @@ static Il2CppMethodPointer s_methodPointers[373] =
 	PlayerInteractions_BreakConnection_m9CCD0F01F8A3EA0D0B1CF5DD37FBD0AB4B1B1BAD,
 	PlayerInteractions_PickUpObject_m21E98F5D0FD92117E609BF26149AF2B87291F510,
 	PlayerInteractions__ctor_mBC5AD9CEA928DF293047C74BE87180B9D635F36C,
-	ActivateStrip_Start_mE51C7C68517199979E80376805ED6626DBF79BAC,
-	ActivateStrip_Activate_m54E44254829A2D80FBF5387AFC207809D6DBC498,
-	ActivateStrip__ctor_m959AF7A6D7D081E86CFD97DCCF8E9C91F86DFC7A,
 	CradleTrigger_OnTriggerEnter_mD226D07F3E6C335E7FD06AC238C4E88CBADCB6B8,
 	CradleTrigger__ctor_m004B60B32EA3C103B6F44D45577D2E3F30D557D6,
 	DoorUnlock_Start_m55C78087FF4FE86B562B86C39129708AECB6BF22,
@@ -784,12 +778,12 @@ static Il2CppTokenAdjustorThunkPair s_adjustorThunks[18] =
 	{ 0x0600001F, GroundMovementActions_UnregisterCallbacks_m982E644FEB82EAC850CDD208E211E4C233C7AC60_AdjustorThunk },
 	{ 0x06000020, GroundMovementActions_RemoveCallbacks_m8D37E9E7B653D825286F219F8EBE2DC7DD07E7C9_AdjustorThunk },
 	{ 0x06000021, GroundMovementActions_SetCallbacks_m78312D0E55103FDE30F1D1F412B6C5394BEF7260_AdjustorThunk },
-	{ 0x060000F5, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
-	{ 0x060000F6, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
-	{ 0x060000F7, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
-	{ 0x060000F8, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
+	{ 0x060000F2, TrackedRotation_get_totalOffset_mC129829FFE6CDD96C8885030BDAEF40D569F06C8_AdjustorThunk },
+	{ 0x060000F3, TrackedRotation_Reset_m54545DE2D01827833956AEC4324C136A0CB72425_AdjustorThunk },
+	{ 0x060000F4, TrackedRotation_SetBaseFromVector_m0CAD68507FD5C7AA3C7CAE09720645F033F1D26E_AdjustorThunk },
+	{ 0x060000F5, TrackedRotation_SetTargetFromVector_m42F1586C38A41E0FB628220D326B1572BB8F80D7_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[373] = 
+static const int32_t s_InvokerIndices[370] = 
 {
 	16474,
 	16691,
@@ -856,9 +850,6 @@ static const int32_t s_InvokerIndices[373] =
 	13038,
 	13038,
 	13038,
-	16691,
-	16691,
-	16691,
 	16691,
 	16691,
 	16691,
@@ -1169,7 +1160,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	373,
+	370,
 	s_methodPointers,
 	18,
 	s_adjustorThunks,

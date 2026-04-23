@@ -19,7 +19,7 @@ public class ToggleLight : MonoBehaviour{
             if (other.gameObject.name == activator.gameObject.name) {
                 LightToggle();
                 activator.GetComponent<Rigidbody>().isKinematic = true;
-                activator.GetComponent<Transform>().SetPositionAndRotation(transform.position, Quaternion.Euler(new Vector3(-90, 0, 0)));
+                activator.GetComponent<Transform>().SetPositionAndRotation(new Vector3(transform.position.x + 1, transform.position.y, transform.position.z), Quaternion.Euler(new Vector3(0, 0, 90)));
             }
         }
     }

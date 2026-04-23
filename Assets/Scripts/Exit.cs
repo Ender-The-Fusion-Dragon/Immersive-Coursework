@@ -8,7 +8,7 @@ public class Exit : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("Player entered the trigger!");
-            SceneManager.LoadScene("Starting");
+            SceneManager.LoadScene("StartingArea");
         }
     }
 }

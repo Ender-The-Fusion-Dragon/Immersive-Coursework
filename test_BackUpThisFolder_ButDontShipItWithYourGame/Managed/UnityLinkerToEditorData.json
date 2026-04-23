@@ -17,6 +17,7 @@
           {
             "name": "AnimationClip",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -25,6 +26,7 @@
           {
             "name": "Animator",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -33,6 +35,7 @@
           {
             "name": "AnimatorController",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 1,
@@ -47,6 +50,7 @@
           {
             "name": "Avatar",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -55,6 +59,7 @@
           {
             "name": "Behaviour",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -75,6 +80,7 @@
           {
             "name": "RotationConstraint",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -105,6 +111,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -113,6 +120,7 @@
           {
             "name": "AudioClip",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -121,6 +129,7 @@
           {
             "name": "AudioListener",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -135,6 +144,7 @@
           {
             "name": "AudioResource",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -143,6 +153,7 @@
           {
             "name": "AudioSource",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -180,6 +191,7 @@
           {
             "name": "Camera",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -200,6 +212,7 @@
           {
             "name": "Cubemap",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -226,6 +239,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 1,
@@ -240,6 +254,7 @@
           {
             "name": "GameObject",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -272,6 +287,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 1,
@@ -308,6 +324,7 @@
           {
             "name": "LightmapSettings",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -316,6 +333,7 @@
           {
             "name": "LineRenderer",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -330,6 +348,7 @@
           {
             "name": "Material",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -338,6 +357,7 @@
           {
             "name": "Mesh",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -346,6 +366,7 @@
           {
             "name": "MeshFilter",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -354,6 +375,7 @@
           {
             "name": "MeshRenderer",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -362,6 +384,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -376,6 +399,7 @@
           {
             "name": "MonoScript",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 1,
@@ -384,6 +408,7 @@
           {
             "name": "NamedObject",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 1,
@@ -422,6 +447,7 @@
           {
             "name": "RectTransform",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -436,6 +462,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -468,6 +495,7 @@
           {
             "name": "Shader",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -482,6 +510,7 @@
           {
             "name": "SkinnedMeshRenderer",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -496,6 +525,7 @@
           {
             "name": "SortingGroup",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -504,6 +534,7 @@
           {
             "name": "Sprite",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -1043,6 +1074,7 @@
           {
             "name": "BoxCollider",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -1059,6 +1091,7 @@
           {
             "name": "CharacterController",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -1524,6 +1557,7 @@
           {
             "name": "Font",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -1567,6 +1601,7 @@
           {
             "name": "Canvas",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -1575,6 +1610,7 @@
           {
             "name": "CanvasGroup",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
@@ -1583,6 +1619,7 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
+              "Assets/Scenes/StartingArea.unity",
               "Assets/Scenes/Vault.unity"
             ],
             "dependencyType": 0,
